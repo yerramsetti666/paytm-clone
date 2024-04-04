@@ -1,0 +1,322 @@
+* {
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    padding: 1.8%;
+}
+
+.navbar a {
+    text-decoration: none;
+    font-size: 17px;
+    color: black;
+    margin-left: 8%;
+    vertical-align: middle;
+    font-weight: bold;
+}
+
+.logo {
+    margin: 0% !important;
+}
+
+#signin {
+    background-color: #00baf2;
+    color: white;
+    border-radius: 25px;
+    padding: 1%;
+    margin-left: 1%;
+    border: none;
+    width: 10%;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#signin:hover {
+    background-color: #2b54a6;
+}
+
+/* end narbar */
+/* wallet */
+.wallet {
+    text-align: center;
+    background-color: #f6f6f6;
+    padding: 1%;
+}
+
+/* section 2 */
+.sec2 {
+    display: flex;
+    justify-content: space-between;
+    padding: 5% 0% 5% 5%;
+    margin-top: 2%;
+}
+
+.UPI {
+    margin-left: 3%;
+}
+
+.UPI p {
+    font-size: 24px;
+    font-weight: normal;
+    margin-left: 3%;
+}
+
+.UPI h1 {
+    margin-left: 3%;
+}
+
+#app {
+    border: 1px solid black;
+    width: 49%;
+    border-radius: 23px;
+    padding: 2%;
+    background-color: black;
+    color: white;
+    font-size: 17px;
+    margin-left: 4%;
+    margin-top: 6%;
+}
+
+#app:hover {
+    background-color: white;
+    color: black;
+}
+
+#app i {
+    margin: 0% 2%;
+}
+
+.one {
+    font-size: 55px;
+    margin-top: 5%;
+}
+
+.two2 {
+    font-size: 55px;
+}
+
+.two {
+    margin-top: 6%;
+}
+
+/* sec3 */
+.head2 {
+    padding-top: 4%;
+    padding-left: 7%;
+    text-align: left;
+    font-size: 35px;
+    color: white;
+}
+
+.sec3 {
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    background-color: #00baf2;
+}
+
+.div3 {
+    display: flex;
+    justify-content: space-between;
+    padding: 5%;
+    font-weight: bold;
+    margin-left: 4%;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.div3 a {
+    text-decoration: none;
+    color: white;
+}
+
+/* object-fit:contain,cover,
+  aspect-ratio:4/3,width:50% */
+/* sec4 */
+.head3 {
+    padding-top: 4%;
+    padding-left: 7%;
+    text-align: left;
+    font-size: 35px;
+    color: white;
+}
+
+.sec4 {
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    background-color: #084aa1;
+}
+
+.div4 {
+    display: flex;
+    justify-content: space-between;
+    padding: 5%;
+    font-weight: bold;
+    margin-left: 4%;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.div4 a {
+    text-decoration: none;
+    color: white;
+}
+
+/* sec5 */
+.sec {
+    background-color: rgba(239, 239, 239, 0.6);
+    padding: 4% 12%;
+}
+
+#h3 {
+    margin-top: 8%;
+    margin-left: 10%;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 5%;
+}
+
+.sec5 {
+    display: flex;
+    justify-content: center;
+    border: none;
+    padding-top: 5%;
+    border-radius: 20px;
+}
+
+#sec5id {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 2%;
+    margin-left: 1%;
+}
+
+#sec1id {
+    font-size: 40px;
+}
+
+.sec5p {
+    /* font-weight: bold; */
+    font-size: 17px;
+    line-height: 25px;
+}
+
+#appp {
+    border: 1px solid black;
+    width: 56%;
+    border-radius: 23px;
+    padding: 2%;
+    background-color: black;
+    color: white;
+    font-size: 17px;
+    margin-left: 4%;
+    margin-top: 3%;
+    cursor: pointer;
+}
+
+#appp:hover {
+    background-color: white;
+    color: black;
+}
+
+#appp {
+    margin: 0% 2%;
+}
+
+.i19 {
+    padding-left: 10%;
+    padding-bottom: 5%;
+}
+
+.six {
+    margin-top: 10%;
+}
+
+/*  ------*/
+#apppp {
+    border: 1px solid black;
+    width: 56%;
+    border-radius: 23px;
+    padding: 2%;
+    background-color: black;
+    color: white;
+    font-size: 17px;
+    margin-left: 4%;
+    margin-top: 3%;
+    cursor: pointer;
+}
+
+#apppp:hover {
+    background-color: white;
+    color: black;
+}
+
+.sec5n {
+    display: flex;
+    justify-content: center;
+    border: none;
+    padding-top: 7%;
+    border-radius: 20px;
+    margin-top: 5%;
+    padding-bottom: 4%;
+}
+
+#sec2id {
+    font-size: 40px;
+}
+
+#sixid {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 2%;
+    margin-left: 1%;
+}
+
+.sec5id3 {
+    font-size: 17px;
+    line-height: 28px;
+}
+
+#apppp {
+    margin: 0% 2%;
+}
+
+.i21 {
+    padding-left: 10%;
+    padding-bottom: 5%;
+    margin-top: 2%;
+}
+
+.seven {
+    margin-top: 10%;
+}
+
+/* --section6-- */
+.sec8 {
+    display: flex;
+    padding-top: 0%;
+    margin-top: 6%;
+    justify-content: space-between;
+}
+
+.inner8 {
+    width: 40%;
+    padding: 3%;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.i20 {
+    margin-right: 7%;
+    margin-bottom: 0%;
+}
+
+.para5 {
+    font-weight: bold;
+}
